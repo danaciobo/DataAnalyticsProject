@@ -39,7 +39,16 @@ The process involved:
 3. **Open the Power BI report** `project.pbix` in Power BI Desktop.
 
 
-## Example Dashboard
-![Dashboard Screenshot]("summary page.PNG")
+## Project sample images
 
+### Summary Dashboard
+![Dashboard Screenshot](https://github.com/danaciobo/DataAnalyticsProject/blob/main/summary%20page.PNG)
 
+### Customers Page
+![Dashboard Screenshot](https://github.com/danaciobo/DataAnalyticsProject/blob/main/Customers%20page.PNG)
+
+### Product Page
+![Dashboard Screenshot](https://github.com/danaciobo/DataAnalyticsProject/blob/main/product%20page.PNG)
+
+### Stores Drillthrough Page
+![Dashboard Screenshot](https://github.com/danaciobo/DataAnalyticsProject/blob/main/store%20page.PNG)
